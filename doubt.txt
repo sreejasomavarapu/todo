@@ -1,0 +1,2 @@
+I was accessing task.task in list.html but he directly 
+used task
